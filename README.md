@@ -3,9 +3,6 @@
 > **From one branching set of decisions to a whole forest of them.**  
 > Learn how tree-based models make predictions, why forests combine many trees, and how to build both with Python.
 
-## Description
-
-A practical introduction to decision trees and random forests. This guide explains how the models work, how they differ, how to train and evaluate them with scikit-learn, and what to consider when interpreting their predictions.
 
 ## 🗺️ Trail Map
 
